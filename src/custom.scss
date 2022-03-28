@@ -1,0 +1,17 @@
+// How to: https://create-react-app.dev/docs/adding-bootstrap/
+
+//https://appdividend.com/2020/04/07/how-to-create-custom-navigation-menu-in-react-with-sass/
+
+//Override default variables before the import
+ .nav-link, .navbar-brand {
+   &:hover,
+   &:active {
+     color: yellow !important;
+   }
+ }
+
+
+
+// Import Bootstrap and its default variables
+// @import '~bootstrap/scss/bootstrap.scss';
+@import "../node_modules/bootstrap/scss/bootstrap";
