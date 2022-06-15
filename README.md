@@ -3,7 +3,9 @@
 ## Description of Project: 
 Course 2 (front end development with React) final project in my MIT XPro Bootcamp. The course provided me with wireframes, a user story and starter code. I then refactored, expanded and deployed it.
 
-You can see my video walk-through of the app here: https://www.youtube.com/watch?v=K6eGy3GF_d0
+You can see my video walk-through of the deployed app here: https://www.youtube.com/watch?v=K6eGy3GF_d0
+
+(Please note that the app is not currently deployed.)
 
 *Original Author:* Dr. Abel Sanchez  
 *Additional Coding:* Kathryn Michael
