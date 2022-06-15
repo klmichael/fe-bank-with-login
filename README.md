@@ -3,9 +3,7 @@
 ## Description of Project: 
 Course 2 (front end development with React) final project in my MIT XPro Bootcamp. The course provided me with wireframes, a user story and starter code. I then refactored, expanded and deployed it.
 
-You can see my deployed app here: https://kathryn-michaelbankingapplication.s3.us-east-2.amazonaws.com/index.html
-
-And my video walk-through of the app here: https://www.youtube.com/watch?v=K6eGy3GF_d0
+You can see my video walk-through of the app here: https://www.youtube.com/watch?v=K6eGy3GF_d0
 
 *Original Author:* Dr. Abel Sanchez  
 *Additional Coding:* Kathryn Michael
